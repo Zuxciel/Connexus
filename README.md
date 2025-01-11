@@ -69,7 +69,7 @@ Contributions are welcome! 🎉
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## ❤️ Acknowledgments
-- Thanks to the React Native and Firebase communities.
+- Thanks to the React Native, Firebase communities, and ChatGPT!
 - Special thanks to contributors and testers.
 
 **"Stay connected, stay efficient with Connexus!" 🌟**
