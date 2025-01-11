@@ -44,7 +44,7 @@ Make sure you have the following installed:
    ```bash
    npx expo start
 
-##⚙️ Firebase Configuration
+## ⚙️ Firebase Configuration
 To connect Connexus to your Firebase project:
 
 Go to the Firebase Console.
@@ -63,13 +63,13 @@ Go to the Firebase Console.
      appId: "YOUR_APP_ID",
    };
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! 🎉
 
-##🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##❤️ Acknowledgments
+## ❤️ Acknowledgments
 - Thanks to the React Native and Firebase communities.
 - Special thanks to contributors and testers.
 
